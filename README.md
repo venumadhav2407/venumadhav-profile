@@ -4,7 +4,7 @@
 
 -  I am a Software developer with 2+ year of experience.
 -  Python (Django)
--  Data Science 
+
 
 
 
